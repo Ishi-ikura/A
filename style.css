@@ -1,0 +1,74 @@
+body {
+    line-height:1;
+    margin:0;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+	margin: 0;
+}
+
+article,aside,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section {
+    display:block;
+}
+
+hr {
+    display:block;
+    height:1px;
+    border:0;
+    border-top:1px solid #cccccc;
+    margin:1em 0;
+    padding:0;
+}
+
+ul {
+	list-style:none;
+	padding:0;
+}
+li {
+	float: left;
+	padding: 20px;
+}
+
+.botan1 {
+	background-color: #66cdaa;
+	padding: 20px 30px;
+}
+
+.botan2 {
+	background-color: #ff69b4;
+	padding: 20px 50px;
+}
+
+input, select {
+    vertical-align:middle;
+}
+
+a {
+    display: block;
+}
+
+a {
+    -webkit-tap-highlight-color:transparent;
+}
+
+.main {
+    margin: 30px 0px;
+}
+
+.question {
+    margin: 10px 0px;
+}
+
+label {
+}
+
+input {
+    margin: 10px 0px;
+    background-color: lightblue;
+}
+
+input {
+    
+}
+
